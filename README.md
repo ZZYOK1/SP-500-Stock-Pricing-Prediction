@@ -39,9 +39,7 @@ The trading strategy implemented in this script is based on a simple moving aver
    ```
    This will run the trading simulation over the defined period using the provided NFT market data.
 
-## Customization
 
-The script can be easily modified to test different trading strategies, adjust the simulation period, or analyze different NFT assets. Adjust the parameters and the trading logic in the `trade_logic` function as needed.
 
 
 
